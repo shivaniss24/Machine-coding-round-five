@@ -1,0 +1,19 @@
+.nav-container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  border: 2px solid lightgray;
+  border-radius: 0.4rem;
+  overflow: hidden;
+}
+
+.nav-container > hr {
+  height: 1rem;
+  border: 1px solid lightgray;
+}
+
+.search-bar {
+  padding: 0.2rem 0.4rem;
+  border: none;
+  outline: none;
+}

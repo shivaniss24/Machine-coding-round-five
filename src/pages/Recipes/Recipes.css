@@ -1,0 +1,16 @@
+.all-recipes-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.recipes-container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.add-icon {
+  align-self: center;
+  cursor: pointer;
+}
